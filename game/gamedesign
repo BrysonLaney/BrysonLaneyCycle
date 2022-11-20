@@ -1,0 +1,12 @@
+cycle:
+    player1:
+    player2:
+    player1trail:
+    player2trail:
+    player1movement:
+    player2movement:
+    playercollsions:
+    gameover:
+
+in cycle i will create a class for each player for the following: 1. movement 2. trail 3. collisions 4.the player 5. trail collisions 6. player wins 7. cycle color change 8. trail color change 
+after that there will be the gameover class in which it will command the color change, and the player wins class to display the final winner and etc.
